@@ -36,3 +36,4 @@ build/
 application.properties
 persistence.xml
 .env
+src/main/resources/static/mars-weather-ui/
